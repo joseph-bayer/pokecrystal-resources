@@ -11,6 +11,8 @@ Please make sure to give credit when using any assets.
 
 ### Tools
 - [Polished Map - Map & Tileset Editor](https://github.com/Rangi42/polished-map)
+- [Siren - a WAV to pokecrystal cry converter](https://github.com/mauvesea/siren)
+- [Gen 2 Attack Animation Editor](https://souppotato.github.io/Gen2-Attack-Animation-Editor/)
 - [Debug Mon & Trainer Color Picker](https://github.com/joseph-bayer/pokecrystal/tree/debug-color-picker)
 - [Pokecrystal RGB Converter (To be used in conjunction with the Debug Mon & Trainer Color Picker)](https://joseph-bayer.github.io/2byte-hex-to-gbc-rgb.github.io/)
 
