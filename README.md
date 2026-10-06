@@ -20,5 +20,13 @@ Please make sure to give credit when using any assets.
 - [Siren - a WAV to pokecrystal cry converter](https://github.com/mauvesea/siren)
 - [CryEd - Mon Cry Editor & Cry Library](https://github.com/Idain/CryEd/tree/master)
 
+## Engines
+- [CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine) - an engine that has bugfixes, QOL features, support for over 251 creatures, an overhauled box system, and more.
 
+## Useful Branches
+- pokecrystal has many [incredibly useful branches](https://github.com/pret/pokecrystal/wiki/Branches)
+- fellowship-of-the-roms's [pokecrystal branch](https://github.com/fellowship-of-the-roms/pokecrystal) contains many useful branches including follow-mons, which implements followers, and newbox, which implements a new box system
+
+## More
+- Check out [pokecrystal's Links wiki](https://github.com/pret/pokecrystal/wiki/Links) for even more useful resources!
 
