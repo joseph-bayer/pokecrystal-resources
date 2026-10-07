@@ -3,6 +3,10 @@
 A repository for useful assets and tools for pokecrystal fan games, rom hacks, and mods.
 Please make sure to give credit when using any assets.
 
+## Starter "Engines"
+- [Polished Crystal](https://github.com/rangi42/polishedcrystal) - an excellent project to build off of that contains years of work from a group of asm wizards along with overhauled systems that add up to more than you'd ever expect out of a GBC game.
+- [CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine) - a great starter that has bugfixes, QOL features, support for over 251 creatures, an overhauled box system, and more.
+
 ## GFX
 ### Battle Sprites
 - [Nuuk's dropbox](https://www.dropbox.com/scl/fo/8h5gwdssttyouxgrg7lon/AHRKMF4TRd20yxpFoh5kb7A?rlkey=k6a8dcje8lwjl539kw0qgyyv7&e=2&dl=0)
@@ -20,9 +24,7 @@ Please make sure to give credit when using any assets.
 - [Siren - a WAV to pokecrystal cry converter](https://github.com/mauvesea/siren)
 - [CryEd - Mon Cry Editor & Cry Library](https://github.com/Idain/CryEd/tree/master)
 
-## Starter "Engines"
-- [Polished Crystal](https://github.com/rangi42/polishedcrystal) - an excellent project to build off of that contains years of work from a group of asm wizards along with overhauled systems that add up to more than you'd ever expect out of a GBC game.
-- [CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine) - a great starter that has bugfixes, QOL features, support for over 251 creatures, an overhauled box system, and more.
+
 
 ## Useful Branches
 - pokecrystal has many [incredibly useful branches](https://github.com/pret/pokecrystal/wiki/Branches)
