@@ -24,7 +24,8 @@ Please make sure to give credit when using any assets.
 - [Siren - a WAV to pokecrystal cry converter](https://github.com/mauvesea/siren)
 - [CryEd - Mon Cry Editor & Cry Library](https://github.com/Idain/CryEd/tree/master)
 
-
+## Maps
+- [pokecrystal-kantomaps](https://github.com/TotalTS/pokecrystal-kantomaps) - A pokecrystal resource project that restores the gen 1 Kanto maps for developers to use
 
 ## Useful Branches
 - pokecrystal has many [incredibly useful branches](https://github.com/pret/pokecrystal/wiki/Branches)
