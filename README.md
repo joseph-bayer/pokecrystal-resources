@@ -5,7 +5,7 @@ Please make sure to give credit when using any assets.
 
 ## Starter "Engines"
 - [Polished Crystal](https://github.com/rangi42/polishedcrystal) - an excellent project to build off of that contains years of work from a group of asm wizards along with overhauled systems that add up to more than you'd ever expect out of a GBC game.
-- [CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine) - a great starter that has bugfixes, QOL features, support for over 251 creatures, an overhauled box system, and more.
+- [CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine) - a great starter that has bugfixes, QOL features, support for adding beyond 253 species, an overhauled Gen 3 style box system, and more.
 
 ## GFX
 ### Battle Sprites
@@ -29,8 +29,8 @@ Please make sure to give credit when using any assets.
 
 ## Useful Branches
 - pokecrystal has many [incredibly useful branches](https://github.com/pret/pokecrystal/wiki/Branches)
-- fellowship-of-the-roms's [pokecrystal branch](https://github.com/fellowship-of-the-roms/pokecrystal) contains many useful branches including follow-mons, which implements followers, and newbox, which implements a new box system
+- fellowship-of-the-roms's [pokecrystal branch](https://github.com/fellowship-of-the-roms/pokecrystal) contains many useful branches including follow-mons, which implements followers, and newbox, which implements a new gen 3 style box system
 
 ## More
-- Check out [pokecrystal's Links wiki](https://github.com/pret/pokecrystal/wiki/Links) for even more useful resources!
+- Check out [the pokecrystal's wiki’s Links page](https://github.com/pret/pokecrystal/wiki/Links) for even more useful resources!
 
