@@ -20,7 +20,10 @@ Please make sure to give credit when using any assets.
 - [Pokecrystal RGB Converter (To be used in conjunction with the Debug Mon & Trainer Color Picker)](https://joseph-bayer.github.io/2byte-hex-to-gbc-rgb.github.io/)
 
 ## SFX Tools
+### Music
 - [Crystal Tracker - Song and Sound Editor](https://github.com/dannye/crystal-tracker)
+- [Midi2ASM](https://github.com/TriteHexagon/Midi2ASM-Converter)
+### Cries
 - [Siren - a WAV to pokecrystal cry converter](https://github.com/mauvesea/siren)
 - [CryEd - Mon Cry Editor & Cry Library](https://github.com/Idain/CryEd/tree/master)
 
